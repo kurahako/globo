@@ -1,0 +1,37 @@
+/**/
+
+/* account */
+form {margin:0 0 1em 0;}
+input {margin:1em 0 0 0; width:20em;}
+
+#account_block {width:60%; margin:30px auto 0 auto;}
+#account_block img {width:100%; margin:10px 0 0 0;}
+
+/* home */
+.content_box {width:100%; margin:0 auto 40px auto; padding:0 0 30px 0; border-bottom: 1px solid #CCC;}
+.content_box:last-child {border-bottom:none;}
+.photo_box {width:100%; margin:15px auto 0 auto;}
+.content_box p {margin:0; font-size:92%; line-height: 1;}
+
+
+/* 共通 */
+#wrapper {width:80%; margin:0 auto;}
+h1 {font-size:140%; text-align:center; margin:20px 0 0 0;}
+h2 {font-size:100%; text-align:left; margin:20px 0 0 0;}
+.s_font {font-size:87%; color:#666;}
+img {width:100%;}
+
+.header {background-color:#99FF99;}
+
+.navigation-bar {background-color:#4A99F2;}
+
+/** インプット **/
+.search-input {width:90%; margin:6px auto 0 auto;}
+input[type=search]{
+font-family: FontAwesome /*FontAwesomeをフォント指定*/;
+padding: 4px 0 0 8px;
+}
+
+/** タブ **/
+.tab-bar__button {line-height:1;}
+ons-tab div {color:#999; font-size:10px;}
