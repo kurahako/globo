@@ -14,6 +14,31 @@
 <script src="js/onsenui.js"></script>
 <script src="js/angular-onsenui.min.js"></script>
 <script type="text/javascript">ons.bootstrap();</script>
+
+// スクリプト
+<script type="text/JavaScript">
+function DspInputSetsumei(control,moji) {
+
+if(control.value == '') {
+control.style.color = '#AAAAAA ';
+control.value = moji;
+}
+
+return true;
+}
+
+function unDspInputSetsumei(control,moji) {
+
+if(control.value == moji) {
+control.style.color = '#000000 ';
+control.value = '';
+
+}
+
+return true;
+}
+</script>
+
 </head>
 
 <body>
