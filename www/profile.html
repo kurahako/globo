@@ -3,6 +3,32 @@
         <div class="center">プロフィール</div>
     </ons-toolbar>
   
+  <head>
+  // スクリプト
+  <script type="text/JavaScript">
+      function DspInputSetsumei(control,moji) {
+          
+          if(control.value == '') {
+              control.style.color = '#AAAAAA ';
+              control.value = moji;
+          }
+          
+          return true;
+      }
+  
+  function unDspInputSetsumei(control,moji) {
+      
+      if(control.value == moji) {
+          control.style.color = '#000000 ';
+          control.value = '';
+          
+      }
+      
+      return true;
+  }
+  </script>
+  </head>
+  
     <div style="text-align: center; margin-top: 30px;">
         
     <input type="text" name="name" size="8" value="" onFocus="unDspInputSetsumei(this,'お名前');" onBlur="DspInputSetsumei(this,'お名前');" />
