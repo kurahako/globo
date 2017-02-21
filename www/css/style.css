@@ -92,3 +92,6 @@ section.bukken div.photo_right {float:right; width:29%}
 section.bukken div.data h5  {margin:0 0 0 0;}
 section.bukken div.map {margin:40px 0 0 0;}
 
+
+/** プロフィール **/
+input.profile { width: 75%; }
