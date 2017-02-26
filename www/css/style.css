@@ -103,8 +103,8 @@ h6 { text-indent: 1em; line-height: 1.2em;　margin-bottom: 0.5em;}
 p { text-indent: 1em; padding:1em line-height: 1.2em;　margin-top: 0.5em;  border-bottom: 1px solid #444; width:90%;}
 
 /** お友達紹介 **/
-hc { text-align: center; }
-section.tomodachi { text-align:center; }
+div.hc { text-align: center; }
+div.tomodachi { text-align:center; }
 
 
 /** 申し込み **/
