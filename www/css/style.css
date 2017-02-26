@@ -104,7 +104,7 @@ p { text-indent: 1em; padding:1em line-height: 1.2em;　margin-top: 0.5em;  bord
 
 /** お友達紹介 **/
 .hc { text-align: center; }
-p { text-align:center; }
+section.tomodachi { text-align:center; }
 
 
 /** 申し込み **/
