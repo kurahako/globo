@@ -100,8 +100,8 @@ section.bukken div.map {margin:40px 0 0 0;}
 
 /** プロフィール **/
 /* h6 { text-indent: 1em; line-height: 1.2em;　margin-bottom: 0.5em;} */
-h6 { text-indent: 1em; line-height: 1em;　margin: 0em;} 
-p { text-indent: 1em; padding:1em line-height: 1.2em;　margin-top: 0.5em;  border-bottom: 1px solid #444; width:90%;}
+section.profile h6 { text-indent: 1em; line-height: 1em;　margin: 0em;} 
+section.profile p { text-indent: 1em; padding:1em line-height: 1.2em;　margin-top: 0.5em;  border-bottom: 1px solid #444; width:90%;}
 
 /** お友達紹介 **/
 div.photo { text-align: center; }
