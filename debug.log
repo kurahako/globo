@@ -1,0 +1,29 @@
+[0113/141126:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0113/141127:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0113/165416:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0113/165416:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0118/191721:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0118/191721:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0118/192311:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0118/192311:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/220930:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/220934:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/220935:ERROR:ipc_channel_win.cc(404)] pipe error: 232
+[0213/221208:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/221209:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/223715:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/223718:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0213/223718:ERROR:ipc_channel_win.cc(404)] pipe error: 232
+[0216/012259:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0216/012300:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0217/024217:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0217/024218:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0217/024218:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0218/072154:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0218/072155:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0218/072155:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0222/193542:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0222/193544:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0222/193544:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0227/211421:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0227/211422:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
