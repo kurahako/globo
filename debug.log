@@ -27,3 +27,5 @@
 [0222/193544:ERROR:ipc_channel_win.cc(132)] pipe error: 109
 [0227/211421:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
 [0227/211422:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0227/213248:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
+[0227/213248:WARNING:resource_bundle.cc(269)] locale_file_path.empty()
